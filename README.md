@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faeze Eghlima</h1>
-<h3 align="center">A passionate Backend developer from Iran</h3>
+<h3 align="center">A passionate Java developer</h3>
 
 - 🔭 I’m currently working on **full-stack project**
 
